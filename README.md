@@ -37,7 +37,7 @@ Java | Spring Boot | RESTful APIs | Microservices | SQL | Git | Apache Kafka
 
 ### 📫 How to Reach Me
 - **📫 Email:** boittumelotshehla@gmail.com
-- **🔗 LinkedIn:** linkedin.com/in/boitumelo-tshehla-3777a5139
+- **🔗 LinkedIn:** https://linkedin.com/in/boitumelo-tshehla-3777a5139
 
 ### 😄 Pronouns
 - **😄 Pronouns:** He/Him
