@@ -36,7 +36,6 @@ Java | Spring Boot | RESTful APIs | Microservices | SQL | Git | Apache Kafka
 - **💬 Ask me about:** Designing RESTful APIs, Spring Boot best practices, or anything Java-related.
 
 ### 📫 How to Reach Me
-- **📫 Email:** boittumelotshehla@gmail.com
 - **🔗 LinkedIn:** https://linkedin.com/in/boitumelo-tshehla-3777a5139
 
 ### 😄 Pronouns
